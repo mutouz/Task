@@ -1,0 +1,39 @@
+E:\WorkSpace\IHelperCreate\IHelperCreate\bin\Debug\IHelperCreate.exe.config
+E:\WorkSpace\IHelperCreate\IHelperCreate\bin\Debug\IHelperCreate.exe
+E:\WorkSpace\IHelperCreate\IHelperCreate\bin\Debug\IHelperCreate.pdb
+E:\WorkSpace\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.csprojResolveAssemblyReference.cache
+E:\WorkSpace\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.Form1.resources
+E:\WorkSpace\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.Properties.Resources.resources
+E:\WorkSpace\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.GenerateResource.Cache
+E:\WorkSpace\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.exe
+E:\WorkSpace\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.pdb
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\bin\Debug\IHelperCreate.exe.config
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\bin\Debug\IHelperCreate.exe
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\bin\Debug\IHelperCreate.pdb
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.csprojAssemblyReference.cache
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.Properties.Resources.resources
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.GenerateResource.cache
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.CoreCompileInputs.cache
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.exe
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.pdb
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IDalCreate.Form1.resources
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\bin\Debug\IHelperCreate.exe.config
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.pdb
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\bin\Debug\IHelperCreate.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\bin\Debug\IHelperCreate.pdb
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IDalCreate.Form1.resources
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.Properties.Resources.resources
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\bin\Debug\IHelperCreate.exe.config
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\bin\Debug\IHelperCreate.exe
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\bin\Debug\IHelperCreate.pdb
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IDalCreate.Form1.resources
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.Properties.Resources.resources
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.exe
+C:\Users\admin\Desktop\代码生成器\IDalCreate\IHelperCreate\obj\Debug\IHelperCreate.pdb

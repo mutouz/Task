@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\DALCreate.Form1.resources
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\HelperCreate.Properties.Resources.resources
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\DALCreate.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\HelperCreate.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\HelperCreate.pdb
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\bin\Debug\HelperCreate.exe.config
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\bin\Debug\HelperCreate.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\bin\Debug\HelperCreate.pdb
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\DALCreate.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\DALCreate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\bin\Debug\HelperCreate.exe.config
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\bin\Debug\HelperCreate.exe
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\bin\Debug\HelperCreate.pdb
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\DALCreate.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\DALCreate.Form1.resources
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\HelperCreate.Properties.Resources.resources
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\DALCreate.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\DALCreate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\HelperCreate.exe
+C:\Users\admin\Desktop\代码生成器\DalCreate\HelperCreate\obj\Debug\HelperCreate.pdb

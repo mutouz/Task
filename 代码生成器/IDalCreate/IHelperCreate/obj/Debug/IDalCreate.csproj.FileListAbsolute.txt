@@ -1,0 +1,7 @@
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IDalCreate.csprojAssemblyReference.cache
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IDalCreate.Form1.resources
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.Properties.Resources.resources
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IDalCreate.csproj.GenerateResource.cache
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IDalCreate.csproj.CoreCompileInputs.cache
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.exe
+C:\Users\admn\Desktop\底层\IHelperCreate\IHelperCreate\obj\Debug\IHelperCreate.pdb

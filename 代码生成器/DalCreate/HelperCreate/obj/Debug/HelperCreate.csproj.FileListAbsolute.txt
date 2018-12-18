@@ -1,0 +1,22 @@
+E:\WorkSpace\HelperCreate\HelperCreate\bin\Debug\HelperCreate.exe.config
+E:\WorkSpace\HelperCreate\HelperCreate\bin\Debug\HelperCreate.exe
+E:\WorkSpace\HelperCreate\HelperCreate\bin\Debug\HelperCreate.pdb
+E:\WorkSpace\HelperCreate\HelperCreate\obj\Debug\HelperCreate.csprojResolveAssemblyReference.cache
+E:\WorkSpace\HelperCreate\HelperCreate\obj\Debug\HelperCreate.Form1.resources
+E:\WorkSpace\HelperCreate\HelperCreate\obj\Debug\HelperCreate.Properties.Resources.resources
+E:\WorkSpace\HelperCreate\HelperCreate\obj\Debug\HelperCreate.csproj.GenerateResource.Cache
+E:\WorkSpace\HelperCreate\HelperCreate\obj\Debug\HelperCreate.exe
+E:\WorkSpace\HelperCreate\HelperCreate\obj\Debug\HelperCreate.pdb
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\bin\Debug\HelperCreate.exe.config
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\bin\Debug\HelperCreate.exe
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\bin\Debug\HelperCreate.pdb
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.Form1.resources
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.Properties.Resources.resources
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.csproj.GenerateResource.cache
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.csproj.CoreCompileInputs.cache
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.exe
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.pdb
+C:\Users\admn\Desktop\底层\HelperCreate\HelperCreate\obj\Debug\HelperCreate.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\bin\Debug\HelperCreate.exe.config
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\HelperCreate.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\DalCreate\HelperCreate\obj\Debug\HelperCreate.pdb

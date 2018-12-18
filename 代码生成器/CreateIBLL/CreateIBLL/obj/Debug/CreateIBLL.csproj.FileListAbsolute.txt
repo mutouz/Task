@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.Properties.Resources.resources
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\bin\Debug\CreateIBLL.exe.config
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\bin\Debug\CreateIBLL.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\bin\Debug\CreateIBLL.pdb
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.exe
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.pdb
+C:\Users\admin\Desktop\代码生成器 (2)\代码生成器\底层\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.Form1.resources
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\bin\Debug\CreateIBLL.exe.config
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\bin\Debug\CreateIBLL.exe
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\bin\Debug\CreateIBLL.pdb
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.Form1.resources
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.Properties.Resources.resources
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.exe
+C:\Users\admin\Desktop\代码生成器\CreateIBLL\CreateIBLL\obj\Debug\CreateIBLL.pdb
